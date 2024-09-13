@@ -56,7 +56,8 @@ def emailAlert(scraped_price, appl_price):
     smtp_server = 'smtp.gmail.com'
     smtp_port = 587
     smtp_user = 'nscapture99@gmail.com'
-    smtp_password = 'password'  
+
+    smtp_password = 'password'
 
     sender_email = 'nscapture99@gmail.com'
     recipient_email = 'ulnipunishanika18tec@gmail.com'
