@@ -1,0 +1,6 @@
+•	Python libraries: 
+	Requests
+	beautifulsoup4
+	pandas
+	smtplib
+•	Configure an SMTP server to send emails (e.g., Gmail with less secure app access enabled).
